@@ -1,8 +1,8 @@
 # data-sci-bootcamp-8
 my data portfolio for data analyst role
 
-#What did I learn from this course
 
+## What did I learn from this course
 1) Introduction to data science
 2) Spreadsheets
 3) Database (SQL)
@@ -14,3 +14,7 @@ my data portfolio for data analyst role
 9) Python programming
 10) Essential Python for Data Analyst
 11) Dashboard
+
+You can find me in https://www.linkedin.com/in/nee-tanatcha-buranaboonwong-a22b01285/
+
+    
